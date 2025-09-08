@@ -12,3 +12,15 @@ let colour
     }
 
     console.log(colour);
+
+// if else statement 
+
+if (mode === "dark") {
+   colour = "black" ;
+
+} else {
+if (mode === "light") {
+   colour = "white";
+}
+
+console.log(colour);
