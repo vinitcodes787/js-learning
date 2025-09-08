@@ -15,6 +15,7 @@ let colour
 
 // if else statement 
 
+#1:-
 if (mode === "dark") {
    colour = "black" ;
 
@@ -24,3 +25,13 @@ if (mode === "light") {
 }
 
 console.log(colour);
+
+#2:-
+let age = 25;
+
+if (age <= 18) {
+    console.log("vote");
+
+} else {
+    console.log ("not vote");
+} 
