@@ -1,0 +1,14 @@
+//conditional statements 
+
+let mode = dark;
+let colour
+
+    if mode ==="dark"; {
+       colour = "black";
+    }
+
+    if mode ==="light"; {
+       colour = "white";
+    }
+
+    console.log(colour);
